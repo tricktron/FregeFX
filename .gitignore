@@ -5,3 +5,6 @@ out
 *_
 generated
 .settings
+lib
+.envrc
+.direnv
